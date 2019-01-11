@@ -1,5 +1,11 @@
 ### Usage
 
+#### Build
+
+```sh
+docker build -t jweissig/alpine-imagemagick .
+docker push jweissig/alpine-imagemagick
+```
 
 ##### Pull the image
 
