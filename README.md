@@ -1,5 +1,7 @@
 ### Usage
 
+Container with imagemagick, optipng, and pngcrush.
+
 #### Build
 
 ```sh
